@@ -1,0 +1,41 @@
+.loading {
+  background: #6e6e6e;
+}
+
+#listing {
+  display: none;
+  height: 75%;
+  margin: auto;
+  max-height: 500px;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  text-align: center;
+}
+
+#listing-image {
+  max-height: 300px;
+}
+
+#listing-title {
+  font-size: 16pt;
+  line-height: 2em;
+  text-align: center;
+}
+
+#num-favorites {
+  line-height: 2em;
+  text-align: center;
+}
+
+.button-div {
+  text-align: center;
+}
+
+.button {
+  border-radius: 50px;
+  font-size: 36pt;
+  padding: 0;
+  outline: none;
+  height: 100px;
+  width: 100px;
+}
